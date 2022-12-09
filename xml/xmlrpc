@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<methodCall>
+  <methodName>say_hello</methodName>
+  <params>
+    <param>
+      <value>Bob</value>
+    </param>
+  </params>
+</methodCall>
